@@ -11,7 +11,7 @@
     </main>
 
     <footer>
-      <small>示例项目 · 开发环境</small>
+      <small>示例项目 · 开发环境111</small>
     </footer>
   </div>
 </template>
